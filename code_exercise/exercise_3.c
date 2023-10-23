@@ -12,4 +12,4 @@ void bastir(node * r)
         r=r->next;
     }
     printf("\n");
-}
+} 
